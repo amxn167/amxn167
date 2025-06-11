@@ -4,9 +4,8 @@
 <h3 align="center">Computer Science Engineer w/ Minor in Data Science</h3>
 <br/>
 
-- Currently pursuing Advanced Penetration Tester | Certified Ethical Hacker Certification
-
-- Contact me @ mohammedamanknr@gmail.com
+- Certified Ethical Hacker v12
+- Rank #809 on HackTheBox Global
 <br/>
 <br/>
 
